@@ -20,12 +20,12 @@ Here we want to define and implement the analysis steps and make the scripts ava
 By using this platform, the user will be able to reproduce all the results presented in this project.
 
 ## TRAINEES
-Faizatou S SORGHO (URCN)
-Emilie S BADOUM (GRAS)
+- Faizatou S SORGHO (URCN)
+- Emilie S BADOUM (GRAS)
 
 ## SUPERVISORS
-Romuald BOUA (URCN)
-Ezéchiel B TIBIRI (INERA)
+- Romuald BOUA (URCN)
+- Ezéchiel B TIBIRI (INERA)
 
 ## OBJECTIVE OF THIS TRAINING
 By submitting this tutored project, our supervisors' focus is to ensure that we will not only be able to perform bioinformatics analyses, but also that we will be able to interpret the results we obtain. The specific aim is to detect contaminants in water using metagenomics analysis.
@@ -128,9 +128,9 @@ ktImportTaxonomy -m 3 -t 5 report.txt -o kraken.html 2> krakenkrona.err
 4.1. Download bacteria bank
    
 ## Contact us 
-Faizatou S SORGHO (sorghofaiza@gmail.com)
-Emilie S BADOUM (e.badoum@gras.bf)
-Ezechiel B TIBIRI (ezechiel.tibiri@wave-center.org)
-Romuald BOUA (romyboua@gmail.com)
+- Faizatou S SORGHO (sorghofaiza@gmail.com)
+- Emilie S BADOUM (e.badoum@gras.bf)
+- Ezechiel B TIBIRI (ezechiel.tibiri@wave-center.org)
+- Romuald BOUA (romyboua@gmail.com)
 
 
